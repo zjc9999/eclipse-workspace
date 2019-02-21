@@ -1,6 +1,0 @@
-package snippet;
-
-public class Snippet {
-	update-alternatives --install /usr/bin/java java /usr/java9/bin/java 1200
-}
-
